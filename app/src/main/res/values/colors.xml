@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Clash Royale Theme Colors -->
+    <color name="royal_blue">#1e3a8a</color>
+    <color name="royal_blue_light">#1e40af</color>
+    <color name="royal_blue_dark">#1e293b</color>
+    <color name="gold">#fbbf24</color>
+    <color name="gold_dark">#f59e0b</color>
+    <color name="red_accent">#dc2626</color>
+    <color name="bg_light">#f8fafc</color>
+    <color name="bg_dark">#0f172a</color>
+    <color name="text_dark">#1e293b</color>
+    <color name="text_light">#64748b</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#059669</color>
+    
+    <!-- Transparent overlays -->
+    <color name="royal_blue_90">#E61e3a8a</color>
+    <color name="royal_blue_80">#CC1e3a8a</color>
+    <color name="gold_15">#26fbbf24</color>
+</resources>
